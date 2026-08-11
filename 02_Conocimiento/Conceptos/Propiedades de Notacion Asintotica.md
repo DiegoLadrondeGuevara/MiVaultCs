@@ -65,6 +65,7 @@ A diferencia de la **Tricotomía** en números reales (donde para cualquier par 
 
 Es decir, existen casos donde no se cumple ni $f(n) = \mathcal{O}(g(n))$ ni $f(n) = \Omega(g(n))$.
 
+
 ### Ejemplo de Incomparabilidad:
 Consideremos las siguientes funciones:
 * $f(n) = n$

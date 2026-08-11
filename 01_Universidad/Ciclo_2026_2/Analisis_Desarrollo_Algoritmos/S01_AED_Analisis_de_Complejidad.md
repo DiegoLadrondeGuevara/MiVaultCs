@@ -103,13 +103,61 @@ Se demuestra que $n^2 - 10n - 2 = \Omega(n^2)$ es válido para **$n_0 = 11$** y 
 ---
 
 ## 📌 Ejercicios Propuestos para Práctica
-- [ ] Demostrar algebraicamente: $3n + 5 = \mathcal{O}(n)$
-- [ ] Demostrar algebraicamente: $3n^2 - 5n + 1000 = \mathcal{O}(n^2)$
+- [x] Demostrar algebraicamente: $3n + 5 = \mathcal{O}(n)$
+- [x] Demostrar algebraicamente: $3n^2 - 5n + 1000 = \mathcal{O}(n^2)$
 - [ ] Demostrar algebraicamente: $n^2 - 3n = \mathcal{O}(n^2)$
 - [ ] Demostrar formalmente por qué $\frac{n}{100} \neq \mathcal{O}(1)$
 - [ ] Demostrar generalización: $an + b = \mathcal{O}(n)$ para todo $a > 0$
 - [ ] **Desafío:** Resolver todas las demostraciones anteriores aplicando el método del límite:
   $$\lim_{n \to \infty} \frac{f(n)}{g(n)} = L$$
+
+
+1) 3n + 5 = O (n)
+g(n) = n | f(n) = 3n+5
+0 <= 3n + 5 <= n* c
+0= 3n+5
+n0 = -5/3
+
+3n+5 = n, remplazo n = -5/3
+3(-5/3) +5 = -5/3 * c
+0 = c
+
+2) 3n^2 -5n + 1000 = O(n^2)
+0 <= n(3n-5) + 1000 <= n^2 * c
+
+-1000 <= n(3n-5)
+-1000/n <= 3n-5
+valor que cumple: n0 =2
+
+remplazo
+(2)(3(2)-5) <= (2)^2 * c 
+2<= 4c
+1/2 <= c
+
+3) $n^2 - 3n = \mathcal{O}(n^2)$
+ $0<=n^2 - 3n <= n^2$
+ $0<=n( n- 3)$
+  $0<=n( n- 3)$
+caso 1) n = 0 (no puede ser porque n0 tiene que ser positivo)
+caso 2) n = 3 (este es el correcto)
+n0 = 3
+
+remplazo n = 3
+ $n^2 - 3n <= n^2$
+ $(3)^2 - 3(3) <= (3)^2c$
+ $0 <= 9c$
+==Preguntar al profesor que pasa porque no me da el resultado==
+
+4)$\frac{n}{100} \neq \mathcal{O}(1)$
+
+$0<=\frac{n}{100} <= 1*c$
+$0<=\frac{n}{100}$
+$0*100<=n$
+$0<=n$
+n0= 1
+
+$\frac{1}{100} <= 1*c$
+$\frac{1}{100} <= c$
 
 ---
 
