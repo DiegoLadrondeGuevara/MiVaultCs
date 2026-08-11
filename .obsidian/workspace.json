@@ -4,55 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "c4550f7c319c8934",
+        "id": "ce2473f08e6e7bf7",
         "type": "tabs",
-        "dimension": 58.00744878957169,
+        "dimension": 57.057654075546715,
         "children": [
           {
-            "id": "45a49c9969d3f955",
+            "id": "f431a1e9d1a61128",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "02_Conocimiento/Conceptos/Valores_Especiales_IEEE_754.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bienvenido"
+              "title": "Valores_Especiales_IEEE_754"
             }
           },
           {
-            "id": "7f4bf8d4c99adb0d",
+            "id": "f20a9f7c18a8ca5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Universidad/Ciclo_2026_2/Analisis_Desarrollo_Algoritmos/_Analisis_Desarrollo_Algoritmos_Index.md",
+                "file": "01_Universidad/Ciclo_2026_2/Arquitectura_Computadoras/S01_Arquitectura_Introduccion_y_Representacion_Datos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Analisis_Desarrollo_Algoritmos_Index"
+              "title": "S01_Arquitectura_Introduccion_y_Representacion_Datos"
             }
           },
           {
-            "id": "940346ec645dde35",
+            "id": "f5e73245d62ce102",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02_Conocimiento/Algoritmos/Deteccion_de_Overflow.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Deteccion_de_Overflow"
+            }
+          },
+          {
+            "id": "2b5577decc6fc7a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Universidad/Ciclo_2026_2/Arquitectura_Computadoras/S01_Arquitectura_Introduccion_y_Representacion_Datos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S01_Arquitectura_Introduccion_y_Representacion_Datos"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
-        "id": "324aa28db30391e0",
+        "id": "b05abed074454e12",
         "type": "tabs",
-        "dimension": 41.9925512104283,
+        "dimension": 42.94234592445328,
         "children": [
           {
             "id": "404566890ca08a7d",
@@ -128,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 315.5
   },
   "right": {
     "id": "067440c7343b21af",
@@ -235,31 +253,43 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "7f4bf8d4c99adb0d",
+  "active": "404566890ca08a7d",
   "lastOpenFiles": [
-    "README.md",
+    "01_Universidad/Ciclo_2026_2/Arquitectura_Computadoras/S01_Arquitectura_Introduccion_y_Representacion_Datos.md",
+    "02_Conocimiento/Algoritmos/Deteccion_de_Overflow.md",
+    "cree un enlace.md",
     "Bienvenido.md",
-    "02_Conocimiento/Conceptos/Poder_de_Negociacion_y_Asimetria.md",
-    "Poder de Negociación.md",
-    "Monopolio.md",
-    "01_Universidad/Ciclo_2026_2/Economia/_Economia_Index.md",
-    "01_Universidad/Ciclo_2026_2/Economia/S01_Economia_Introduccion_y_Caso_Vicuñas.md",
-    "00_Meta/Templates/Platilla_Concepto.md",
-    "00_Meta/Templates/Plantilla_Tarea.md",
-    "01_Universidad/Ciclo_2026_2/Analisis_Desarrollo_Algoritmos/S01_AED_Analisis_de_Complejidad.md",
-    "02_Conocimiento/Conceptos/Notacion Asintotica.md",
+    "02_Conocimiento/Conceptos/Valores_Especiales_IEEE_754.md",
+    "02_Conocimiento/Conceptos/Tipos_de_Datos_y_Tamanos.md",
+    "02_Conocimiento/Conceptos/Sistema_Unsigned.md",
+    "02_Conocimiento/Conceptos/Representacion_Signo_Magnitud.md",
+    "02_Conocimiento/Conceptos/Representacion_Binaria.md",
+    "02_Conocimiento/Conceptos/Punto_Flotante.md",
     "02_Conocimiento/Conceptos/Propiedades de Notacion Asintotica.md",
-    "01_Universidad/Ciclo_2026_2/Analisis_Desarrollo_Algoritmos/_Analisis_Desarrollo_Algoritmos_Index.md",
+    "02_Conocimiento/Conceptos/Precision_Punto_Flotante.md",
+    "02_Conocimiento/Conceptos/Poder_de_Negociacion_y_Asimetria.md",
+    "02_Conocimiento/Conceptos/Overflow.md",
+    "02_Conocimiento/Conceptos/Numeros_Denormalizados.md",
+    "02_Conocimiento/Conceptos/Notacion Asintotica.md",
+    "02_Conocimiento/Conceptos/Normalizacion_Punto_Flotante.md",
+    "02_Conocimiento/Conceptos/Infinito_y_NaN.md",
+    "02_Conocimiento/Conceptos/IEEE_754.md",
+    "02_Conocimiento/Conceptos/Exponente_Bias.md",
+    "02_Conocimiento/Conceptos/Complemento_a_Dos.md",
+    "02_Conocimiento/Conceptos/Arquitectura_de_Computadores.md",
+    "Sistema Unsigned.md",
+    "Complemento a Dos.md",
+    "02_Conocimiento/Algoritmos/Suma_en_Punto_Flotante.md",
+    "02_Conocimiento/Algoritmos/Multiplicacion_en_Punto_Flotante.md",
+    "02_Conocimiento/Algoritmos",
+    "02_Conocimiento/Conceptos/Sin nombre",
     "02_Conocimiento/Conceptos",
     "01_Universidad/Ciclo_2026_2/Teoria_Computacion",
     "01_Universidad/Ciclo_2026_2/Proyectos_Interdisiplinarios_III",
     "01_Universidad/Ciclo_2026_2/Cloud_Computing",
-    "01_Universidad/Ciclo_2026_2/Sin título.md",
     "01_Universidad/Ciclo_2026_2/Analisis_Desarrollo_Algoritmos",
     "01_Universidad/Ciclo_2026_2/Arquitectura_Computadoras",
     "01_Universidad/Ciclo_2026_2/Economia",
-    "01_Universidad/Ciclo_2026_2",
-    "00_Meta/Attachments",
-    "00_Meta/Templates"
+    "01_Universidad/Ciclo_2026_2"
   ]
 }
