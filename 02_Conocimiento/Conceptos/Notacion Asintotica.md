@@ -41,7 +41,7 @@ La notación $\Theta$ acota una función tanto por arriba como por abajo con la 
   $$\Theta(g(n)) = \{ f(n) : \exists \, c_1 > 0, c_2 > 0, n_0 > 0 \text{ tal que } 0 \le c_1 g(n) \le f(n) \le c_2 g(n), \, \forall n \ge n_0 \}$$
 
 ---
-
+.
 ### 4. Little o ($o$) — Cota Superior No Estrecha
 A diferencia de Big O, que permite que la cota sea ajustada ($n^2 = \mathcal{O}(n^2)$), Little o denota un límite superior estrictamente mayor que no puede ser alcanzado.
 
