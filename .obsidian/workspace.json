@@ -6,7 +6,7 @@
       {
         "id": "ce2473f08e6e7bf7",
         "type": "tabs",
-        "dimension": 59.64214711729622,
+        "dimension": 68.0365296803653,
         "children": [
           {
             "id": "f431a1e9d1a61128",
@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Conocimiento/Conceptos/Notacion Asintotica.md",
+                "file": "02_Conocimiento/Conceptos/Lenguaje.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notacion Asintotica"
+              "title": "Lenguaje"
             }
           }
         ],
@@ -42,7 +42,7 @@
       {
         "id": "b57ef43c52927ca7",
         "type": "tabs",
-        "dimension": 40.357852882703774,
+        "dimension": 31.963470319634702,
         "children": [
           {
             "id": "404566890ca08a7d",
@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 227.5
   },
   "right": {
     "id": "067440c7343b21af",
@@ -225,34 +225,34 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "b7a1fc54c15226d7",
+  "active": "404566890ca08a7d",
   "lastOpenFiles": [
-    "01_Universidad/Ciclo_2026_2/Analisis_Desarrollo_Algoritmos/S01_AED_Analisis_de_Complejidad.md",
-    "02_Conocimiento/Conceptos/Valores_Especiales_IEEE_754.md",
-    "01_Universidad/Ciclo_2026_2/Arquitectura_Computadoras/S01_Arquitectura_Introduccion_y_Representacion_Datos.md",
+    "02_Conocimiento/Conceptos/Lenguaje.md",
+    "02_Conocimiento/Conceptos/Cadena.md",
+    "02_Conocimiento/Conceptos/Alfabeto.md",
+    "02_Conocimiento/Conceptos/Operaciones_Sobre_Cadenas.md",
+    "01_Universidad/Ciclo_2026_2/Teoria_Computacion/S01_Teoria_Computacion_Automatas.md",
+    "02_Conocimiento/Conceptos/Automata_Finito_Determinista.md",
+    "02_Conocimiento/Conceptos/No_Determinismo.md",
+    "02_Conocimiento/Conceptos/Clausura_De_Lenguajes_Regulares.md",
+    "02_Conocimiento/Conceptos/Operaciones_Sobre_Lenguajes.md",
+    "02_Conocimiento/Conceptos/Lenguaje_Regular.md",
+    "02_Conocimiento/Conceptos/Computacion_En_Un_Automata_Finito.md",
     "02_Conocimiento/Algoritmos/Deteccion_de_Overflow.md",
+    "02_Conocimiento/Algoritmos/Multiplicacion_en_Punto_Flotante.md",
+    "README.md",
+    "01_Universidad/Ciclo_2026_2/Teoria_Computacion/temp.md",
+    "02_Conocimiento/Conceptos/Valores_Especiales_IEEE_754.md",
+    "01_Universidad/Ciclo_2026_2/Teoria_Computacion/_Index.md",
+    "01_Universidad/Ciclo_2026_2/Arquitectura_Computadoras/Temp-notepad.md",
+    "01_Universidad/Ciclo_2026_2/Arquitectura_Computadoras/S01_Arquitectura_Introduccion_y_Representacion_Datos.md",
+    "01_Universidad/Ciclo_2026_2/Economia/S01_Economia_Introduccion_y_Caso_Vicuñas.md",
+    "02_Conocimiento/Conceptos/Notacion Asintotica.md",
+    "01_Universidad/Ciclo_2026_2/Analisis_Desarrollo_Algoritmos/S01_AED_Analisis_de_Complejidad.md",
     "01_Universidad/Ciclo_2026_2/Cloud_Computing/S01_Cloud_Computing_Introduccion.md",
     "01_Universidad/Ciclo_2026_2/Analisis_Desarrollo_Algoritmos/Temp-notepad.md",
     "01_Universidad/Ciclo_2026_2/Analisis_Desarrollo_Algoritmos/_Analisis_Desarrollo_Algoritmos_Index.md",
     "cree un enlace.md",
-    "Bienvenido.md",
-    "02_Conocimiento/Conceptos/Tipos_de_Datos_y_Tamanos.md",
-    "02_Conocimiento/Conceptos/Sistema_Unsigned.md",
-    "02_Conocimiento/Conceptos/Representacion_Signo_Magnitud.md",
-    "02_Conocimiento/Conceptos/Representacion_Binaria.md",
-    "02_Conocimiento/Conceptos/Punto_Flotante.md",
-    "02_Conocimiento/Conceptos/Propiedades de Notacion Asintotica.md",
-    "02_Conocimiento/Conceptos/Precision_Punto_Flotante.md",
-    "02_Conocimiento/Conceptos/Poder_de_Negociacion_y_Asimetria.md",
-    "02_Conocimiento/Conceptos/Overflow.md",
-    "02_Conocimiento/Conceptos/Numeros_Denormalizados.md",
-    "02_Conocimiento/Conceptos/Notacion Asintotica.md",
-    "02_Conocimiento/Conceptos/Normalizacion_Punto_Flotante.md",
-    "02_Conocimiento/Conceptos/Infinito_y_NaN.md",
-    "02_Conocimiento/Conceptos/IEEE_754.md",
-    "02_Conocimiento/Conceptos/Exponente_Bias.md",
-    "02_Conocimiento/Conceptos/Complemento_a_Dos.md",
-    "02_Conocimiento/Conceptos/Arquitectura_de_Computadores.md",
     "02_Conocimiento/Algoritmos",
     "02_Conocimiento/Conceptos/Sin nombre",
     "02_Conocimiento/Conceptos",

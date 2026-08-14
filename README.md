@@ -1,3 +1,14 @@
+Route map sobre mi enfoque a Desarrollador en la nube
+Pasarme a terraform, o cdk, dejar de usar serverless framework
+Cursos importantes:
+- Sistemas Operativos
+- Computación Paralela y Distribuidas
+- Redes y comunicaciones
+
+
+
+___
+
 ### 📋 Prompt de Recuperación de Contexto (Copiar y Guardar)
 
 > **Instrucciones para la IA (Gemini / Claude / ChatGPT):**
