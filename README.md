@@ -1,3 +1,5 @@
+C:\Users\HP\Documents\Notes\Universidad\MiVaultCS
+
 Route map sobre mi enfoque a Desarrollador en la nube
 Pasarme a terraform, o cdk, dejar de usar serverless framework
 Cursos importantes:

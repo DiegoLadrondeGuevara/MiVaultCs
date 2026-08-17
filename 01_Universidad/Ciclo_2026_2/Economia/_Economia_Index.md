@@ -29,3 +29,6 @@ tags: [universidad, economia, ciclo-2026-2]
 
 ## 📚 Bitácora de Clases
 * [[S01_Economia_Introduccion_y_Caso_Vicuñas]]
+
+###### Lecturas:
+1) [[Lectura_No_Hay_Mercados_Libres]]
