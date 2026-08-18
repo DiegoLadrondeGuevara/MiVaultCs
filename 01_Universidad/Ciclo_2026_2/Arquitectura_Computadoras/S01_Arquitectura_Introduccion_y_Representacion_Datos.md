@@ -17,7 +17,7 @@ tags:
 
 ## Contexto
 
-Esta sesión introduce los fundamentos de [[Arquitectura de Computadores]] y comienza estudiando uno de los problemas fundamentales de cualquier computador:
+Esta sesión introduce los fundamentos de [[Arquitectura_de_Computadores]]de Computadores y comienza estudiando uno de los problemas fundamentales de cualquier computador:
 
 > **¿Cómo representamos información utilizando una cantidad finita de bits?**
 
@@ -154,23 +154,11 @@ La PPT repasa tres representaciones:
 
 ## Rangos
 
-### Unsigned
+### Unsigned: $[0, 2^N - 1]$
+### Signo-magnitud: $[-(2^(N-1)-1), 2^(N-1)-1]$
+### Complemento a dos: 
+$[-2^(N-1), 2^(N-1)-1]$
 
-```text
-[0, 2^N - 1]
-```
-
-### Signo-magnitud
-
-```text
-[-(2^(N-1)-1), 2^(N-1)-1]
-```
-
-### Complemento a dos
-
-```text
-[-2^(N-1), 2^(N-1)-1]
-```
 
 La diferencia más importante es que complemento a dos utiliza una combinación de bits que permite representar un valor negativo adicional respecto a signo-magnitud.
 

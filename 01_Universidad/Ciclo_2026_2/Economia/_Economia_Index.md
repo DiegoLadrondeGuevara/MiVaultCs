@@ -23,12 +23,11 @@ tags: [universidad, economia, ciclo-2026-2]
   * Infografía tema urbano (Semana 10) - 5%
   * Actividades grupales en aula (Sem 2-15) - 30%
   * Asistencia - 5%
-* **EF (30%)** - Proyecto de Campo (3 Informes: Sem 7, Sem 12, Sem 16).
-
+* **EF (30%)** - Proyecto de Campo (3 Informes: Sem 7, Sem 12, Sem 16). 
 ---
 
 ## 📚 Bitácora de Clases
 * [[S01_Economia_Introduccion_y_Caso_Vicuñas]]
-
+- [[S02_No_Hay_Libre_Mercado]]
 ###### Lecturas:
 1) [[Lectura_No_Hay_Mercados_Libres]]
